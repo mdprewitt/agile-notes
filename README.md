@@ -2,6 +2,8 @@
 
 ##Links
 
+[Don’t Take Partial Credit for Semi-Finished Stories, Mike Cohn](https://www.mountaingoatsoftware.com/blog/dont-take-partial-credit-for-semi-finished-stories)
+
 [Velocity-Driven Sprint Planning, Mike Cohn](https://www.mountaingoatsoftware.com/blog/velocity-driven-sprint-planning)
 
 [Commitment-Driven Sprint Planning, Mike Cohn](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning)
