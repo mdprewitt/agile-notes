@@ -1,8 +1,12 @@
-### Agile Notes 
+# Agile Notes 
 
 ##Links
 
 [Velocity-Driven Sprint Planning, Mike Cohn](https://www.mountaingoatsoftware.com/blog/velocity-driven-sprint-planning)
+
+[Commitment-Driven Sprint Planning, Mike Cohn](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning)
+
+[Why I Prefer Commitment-Driven Sprint Planning, Mike Cohn](https://www.mountaingoatsoftware.com/blog/why-i-prefer-commitment-driven-sprint-planning)
 
 [Slicing Requirements for Agile Scuccess, Ellen Gottesdiener & Mary Gorman](https://www.ebgconsulting.com/Pubs/Articles/SlicingRequirementsForAgileSuccess_Gottesdiener-Gorman_August2010.pdf)
 
