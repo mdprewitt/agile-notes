@@ -2,31 +2,33 @@
 
 ## Links
 
-[Don’t Take Partial Credit for Semi-Finished Stories, Mike Cohn](https://www.mountaingoatsoftware.com/blog/dont-take-partial-credit-for-semi-finished-stories)
+[What a Product Owner Should Be](https://www.scrum.org/resources/what-product-owner-should-be), Ralph Jocham 
 
-[Velocity-Driven Sprint Planning, Mike Cohn](https://www.mountaingoatsoftware.com/blog/velocity-driven-sprint-planning)
+[Don’t Take Partial Credit for Semi-Finished Stories](https://www.mountaingoatsoftware.com/blog/dont-take-partial-credit-for-semi-finished-stories), Mike Cohn 
 
-[Commitment-Driven Sprint Planning, Mike Cohn](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning)
+[Velocity-Driven Sprint Planning](https://www.mountaingoatsoftware.com/blog/velocity-driven-sprint-planning), Mike Cohn 
 
-[Why I Prefer Commitment-Driven Sprint Planning, Mike Cohn](https://www.mountaingoatsoftware.com/blog/why-i-prefer-commitment-driven-sprint-planning)
+[Commitment-Driven Sprint Planning](https://www.mountaingoatsoftware.com/blog/commitment-driven-planning), Mike Cohn
 
-[Slicing Requirements for Agile Scuccess, Ellen Gottesdiener & Mary Gorman](https://www.ebgconsulting.com/Pubs/Articles/SlicingRequirementsForAgileSuccess_Gottesdiener-Gorman_August2010.pdf)
+[Why I Prefer Commitment-Driven Sprint Planning](https://www.mountaingoatsoftware.com/blog/why-i-prefer-commitment-driven-sprint-planning), Mike Cohn 
 
-[Size Matters in Agile, David Cassidy](https://www.frontrowagile.com/blog/posts/72-size-matters-in-agile)
+[Slicing Requirements for Agile Scuccess](https://www.ebgconsulting.com/Pub s/Articles/SlicingRequirementsForAgileSuccess_Gottesdiener-Gorman_August2010.pdf), Ellen Gottesdiener & Mary Gorman
 
-[Origins of Scrum, Jeff Sutherland](https://www.scruminc.com/origins-of-scrum/)
+[Size Matters in Agile](https://www.frontrowagile.com/blog/posts/72-size-matters-in-agile), David Cassidy 
 
-[30+ Metrics for Agile Software Development Teams, Andy Cleff](https://www.frontrowagile.com/blog/posts/69-30-metrics-for-agile-software-development-teams?utm_campaign=Weekly%20Blog%20Post%20Mailing%2011.4&utm_medium=A.%20Cleff&utm_source=Net%20Results)
+[Origins of Scrum](https://www.scruminc.com/origins-of-scrum/), Jeff Sutherland 
 
-[This trick saved me HOURS every day (reduce mtgs to 15 mins...), Oleg Vishnepolsky, Global CTO at DailyMail Online and Metro.co.uk](https://www.linkedin.com/pulse/trick-saved-me-hours-every-day-oleg-vishnepolsky)
+[30+ Metrics for Agile Software Development Teams](https://www.frontrowagile.com/blog/posts/69-30-metrics-for-agile-software-development-teams?utm_campaign=Weekly%20Blog%20Post%20Mailing%2011.4&utm_medium=A.%20Cleff&utm_source=Net%20Results), Andy Cleff
 
-[How do you coordinate Scrum teams when there are dependencies?, Rowan Bunning](https://www.quora.com/How-do-you-coordinate-Scrum-teams-when-there-are-dependencies/answer/Rowan-Bunning-1)
+[This trick saved me HOURS every day (reduce mtgs to 15 mins...)](https://www.linkedin.com/pulse/trick-saved-me-hours-every-day-oleg-vishnepolsky), Oleg Vishnepolsky, Global CTO at DailyMail Online and Metro.co.uk
 
-[An Example Checklist for ScrumMasters, Michael James](http://scrumreferencecard.com/ScrumMasterChecklist.pdf)
+[How do you coordinate Scrum teams when there are dependencies?](https://www.quora.com/How-do-you-coordinate-Scrum-teams-when-there-are-dependencies/answer/Rowan-Bunning-1), Rowan Bunning
 
-[Introducing the software testing ice-cream cone (anti-pattern), Alister Scott](https://watirmelon.blog/2012/01/31/introducing-the-software-testing-ice-cream-cone/)
+[An Example Checklist for ScrumMasters](http://scrumreferencecard.com/ScrumMasterChecklist.pdf), Michael James
 
-[Large Scale Scrum (LeSS) @ J.P. Morgan,  Craig Larman and Matt Winn](https://www.infoq.com/articles/large-scale-scrum-jomorgan)
+[Introducing the software testing ice-cream cone (anti-pattern)](https://watirmelon.blog/2012/01/31/introducing-the-software-testing-ice-cream-cone/), Alister Scott
+
+[Large Scale Scrum (LeSS) @ J.P. Morgan](https://www.infoq.com/articles/large-scale-scrum-jomorgan), Craig Larman and Matt Winn
 
 [Google and the Perfect Team, Susan McIntosh](https://www.infoq.com/news/2016/10/google-perfect-team)
 
