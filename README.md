@@ -12,7 +12,7 @@
 
 [Why I Prefer Commitment-Driven Sprint Planning](https://www.mountaingoatsoftware.com/blog/why-i-prefer-commitment-driven-sprint-planning), Mike Cohn 
 
-[Slicing Requirements for Agile Scuccess](https://www.ebgconsulting.com/Pub s/Articles/SlicingRequirementsForAgileSuccess_Gottesdiener-Gorman_August2010.pdf), Ellen Gottesdiener & Mary Gorman
+[Slicing Requirements for Agile Scuccess](https://www.ebgconsulting.com/Pubs/Articles/SlicingRequirementsForAgileSuccess_Gottesdiener-Gorman_August2010.pdf), Ellen Gottesdiener & Mary Gorman
 
 [Size Matters in Agile](https://www.frontrowagile.com/blog/posts/72-size-matters-in-agile), David Cassidy 
 
@@ -30,21 +30,21 @@
 
 [Large Scale Scrum (LeSS) @ J.P. Morgan](https://www.infoq.com/articles/large-scale-scrum-jomorgan), Craig Larman and Matt Winn
 
-[Google and the Perfect Team, Susan McIntosh](https://www.infoq.com/news/2016/10/google-perfect-team)
+[Google and the Perfect Team](https://www.infoq.com/news/2016/10/google-perfect-team), Susan McIntosh
 
-[The Future of Agile: Innovators, Imitators, and Idiots, Jim Highsmith](https://www.thoughtworks.com/insights/blog/future-agile-innovators-imitators-and-idiots)
+[The Future of Agile: Innovators, Imitators, and Idiots](https://www.thoughtworks.com/insights/blog/future-agile-innovators-imitators-and-idiots), Jim Highsmith
 
-[How to write Well-Formed User Stories, Jonathan Berger](https://blog.pivotal.io/labs/labs/well-formed-stories)
+[How to write Well-Formed User Stories](https://blog.pivotal.io/labs/labs/well-formed-stories), Jonathan Berger
 
-[What’s in a Story?, Dan North](https://dannorth.net/whats-in-a-story/)
+[What’s in a Story?](https://dannorth.net/whats-in-a-story/), Dan North
 
-[Chronic and Acute Problems in Software, Kevin Buchanan](https://8thlight.com/blog/kevin-buchanan/2016/10/04/chronic-and-acute-problems-in-software.html)[Scrum Self-Similarity: Creating Organizational Fractals](http://senexrex.com/scrum-fractals/)
+[Chronic and Acute Problems in Software](https://8thlight.com/blog/kevin-buchanan/2016/10/04/chronic-and-acute-problems-in-software.html)[Scrum Self-Similarity: Creating Organizational Fractals](http://senexrex.com/scrum-fractals/), Kevin Buchanan
 
-[Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.ci09v5cyv)Image: https://cdn-images-1.medium.com/max/2000/1*71TzKnr7bzXU_l_pU6DCNA.jpeg 
+[Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.ci09v5cyv) Image: https://cdn-images-1.medium.com/max/2000/1*71TzKnr7bzXU_l_pU6DCNA.jpeg 
 
-[Innovative Instructor: Mindsets and Academic Motivation](http://ii.library.jhu.edu/2013/10/24/innovative-instructor-mindsets-and-academic-motivation/)Full size graphic: http://www.doe.k12.de.us/cms/lib09/DE01922744/Centricity/Domain/240/Dweck%20Mind%20set%20poster.pdf
+[Innovative Instructor: Mindsets and Academic Motivation](http://ii.library.jhu.edu/2013/10/24/innovative-instructor-mindsets-and-academic-motivation/) Full size graphic: http://www.doe.k12.de.us/cms/lib09/DE01922744/Centricity/Domain/240/Dweck%20Mind%20set%20poster.pdf
 
-[Teaching Social Intelligence and How It Relates to Agile, by Yvette Francino](https://www.frontrowagile.com/blog/posts/46-teaching-social-intelligence-and-how-it-relates-to-agile)
+[Teaching Social Intelligence and How It Relates to Agile](https://www.frontrowagile.com/blog/posts/46-teaching-social-intelligence-and-how-it-relates-to-agile), by Yvette Francino
 
 [3 Agile-Friendly Ways to Say No to Feature Requests](https://www.frontrowagile.com/blog/posts/45-3-agile-friendly-ways-to-say-no-to-feature-requests), by Ken Robinson
 
