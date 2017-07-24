@@ -2,6 +2,8 @@
 
 ## Links
 
+[How To Determine Sprint Start and End Days](http://innolution.com/blog/how-to-determine-sprint-start-and-end-days), Ken Rubin
+
 [Red, Yellow, Green or RYG/RAG Reports: How They Hide the Truth](https://agilepainrelief.com/notesfromatooluser/2015/10/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html), Mark Levison
 
 [What a Product Owner Should Be](https://www.scrum.org/resources/what-product-owner-should-be), Ralph Jocham 
