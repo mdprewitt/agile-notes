@@ -94,4 +94,25 @@
 
 ## Books
 
-[Fearless Chagne](http://www.fearlesschangepatterns.com/), Manns/Rising
+[Fearless Change](http://www.fearlesschangepatterns.com/), Manns/Rising
+
+EI: Why it Can Matter More Than IQ, Daniel Goleman
+
+Emotional Intelligence 2.0, Bradberry and Greaves
+
+Quite, Susan Cain
+
+Thinking Fast / Thinking Slow
+
+Getting to Yes, Ury and Fischer
+
+Invictus (Movie)
+
+Coaching for Performance, Sir John Whitmore
+
+What Motivates Me: Put Your Passions to Work, Gostick and Elton
+
+Drive, Daniel Pink
+
+Start with Why, Simno Sinek
+
