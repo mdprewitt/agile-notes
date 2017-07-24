@@ -114,5 +114,5 @@ What Motivates Me: Put Your Passions to Work, Gostick and Elton
 
 Drive, Daniel Pink
 
-Start with Why, Simno Sinek
+Start with Why, Simon Sinek
 
