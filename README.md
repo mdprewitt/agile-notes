@@ -2,6 +2,8 @@
 
 ## Links
 
+[Take Notes by Hand for Better Long-Term Comprehension](https://www.psychologicalscience.org/news/releases/take-notes-by-hand-for-better-long-term-comprehension.html), Pam A. Mueller
+
 [How To Determine Sprint Start and End Days](http://innolution.com/blog/how-to-determine-sprint-start-and-end-days), Ken Rubin
 
 [Red, Yellow, Green or RYG/RAG Reports: How They Hide the Truth](https://agilepainrelief.com/notesfromatooluser/2015/10/red-yellow-green-or-rygrag-reports-how-they-hide-the-truth.html), Mark Levison
