@@ -2,6 +2,9 @@
 
 ## Links
 
+[ How To Split A User Story](http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart.pdf), Richard Lawrence
+ and [cheat sheet](http://agileforall.com/wp-content/uploads/2009/10/Story-Splitting-Cheat-Sheet.pdf)
+
 [Take Notes by Hand for Better Long-Term Comprehension](https://www.psychologicalscience.org/news/releases/take-notes-by-hand-for-better-long-term-comprehension.html), Pam A. Mueller
 
 [How To Determine Sprint Start and End Days](http://innolution.com/blog/how-to-determine-sprint-start-and-end-days), Ken Rubin
