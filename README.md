@@ -2,7 +2,11 @@
 
 ## Links
 
-[ How To Split A User Story](http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart.pdf), Richard Lawrence
+[Why Most People Split Workflows Wrong](http://agileforall.com/why-most-people-split-workflows-wrong/), Richard Lawrence
+
+[What Agile Really Means](http://blog.pragmaticengineer.com/what-agile-really-means/), Gergely Orosz
+
+[How To Split A User Story](http://agileforall.com/wp-content/uploads/2012/01/Story-Splitting-Flowchart.pdf), Richard Lawrence
  and [cheat sheet](http://agileforall.com/wp-content/uploads/2009/10/Story-Splitting-Cheat-Sheet.pdf)
 
 [Take Notes by Hand for Better Long-Term Comprehension](https://www.psychologicalscience.org/news/releases/take-notes-by-hand-for-better-long-term-comprehension.html), Pam A. Mueller
