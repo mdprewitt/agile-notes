@@ -2,6 +2,10 @@
 
 ## Links
 
+[Moving Motivators Retrospective Game](https://management30.com/practice/moving-motivators/), Management 3.0
+
+[Delegation Poker](https://management30.com/product/delegation-poker/), Management 3.0
+
 [Why Most People Split Workflows Wrong](http://agileforall.com/why-most-people-split-workflows-wrong/), Richard Lawrence
 
 [What Agile Really Means](http://blog.pragmaticengineer.com/what-agile-really-means/), Gergely Orosz
