@@ -2,7 +2,8 @@
 
 ## Links
 
-[Widgets for running training and meetings, timers, notes, cute animal pictures...](https://classroomscreen.com/)
+[Widgets for running training and meetings, timers, notes, cute animal pictures...](https://classroomscreen.com/), Laurens Koppers 
+
 
 [Moving Motivators Retrospective Game](https://management30.com/practice/moving-motivators/), Management 3.0
 
